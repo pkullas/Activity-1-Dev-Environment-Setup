@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "overloadingdemo",
+      "request": "launch",
+      "mainClass": "overloadingdemo",
+      "projectName": "DBMS_f776524f"
+    },
+    {
+      "type": "java",
       "name": "First",
       "request": "launch",
       "mainClass": "First",
